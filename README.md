@@ -1,5 +1,5 @@
 # E-Health-Center
-Final project
+ 
 E-health center is a web-based application which provides online medical services
 to everyone at their doorstep. This web- based application is more effective, quick 
 in providing medical help especially to people in villages where very few doctors
